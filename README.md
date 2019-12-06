@@ -13,7 +13,7 @@ Test
 python manage.py test
 
 Run the application
-. Clone the repo and cd to the directory
+. Clone the repo using the command *git clone https://github.com/kiminzajnr/PyShop.git* and cd to the directory
 . python3 manage.py runserver
 the application will be live at http://127.0.0.1:8000/products/ and 
 http://127.0.0.1:8000/admin
