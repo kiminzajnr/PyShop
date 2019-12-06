@@ -2,7 +2,7 @@
 
 This Project contains code that you can get by following https://www.youtube.com/watch?v=_uQrJ0TkZlc&feature=youtu.be tutorial
 
-Differences
+Differences:
 some things are a bit different from the tutorial
 . The admin Login
 . Some links on navigation
