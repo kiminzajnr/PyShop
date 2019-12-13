@@ -16,8 +16,8 @@ python manage.py test
 . Clone the repo using the command *git clone https://github.com/kiminzajnr/PyShop.git* and cd to the directory\
 . python3 manage.py runserver\
 the application will be live at *http://127.0.0.1:8000/products/* and 
-*http://127.0.0.1:8000/admin*\
+*http://127.0.0.1:8000/admin*
 
-For admin page: username = admin and password = 1234\
+For admin page: username = admin and password = 1234
 
 Once in admin dashboard, you'll be able manage the product and enjoy superuser privilleges
